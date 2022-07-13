@@ -1,0 +1,12 @@
+Cambios para mejorar SEO.
+
+
+Se agregaron etiquestas "meta" en el "Head" (description, keywords, author).
+
+Se agregaron etiquetas "title" para iconos y videos para mejorar accesibilidad.
+
+Se agregaron descripcion a las imagenes mediante el atributo "alt".
+
+Se redujo el peso de las imagenes para mayor rendimiento del sitio.
+
+Se agrego un archivo "sitemap.xml" para ayudar a indexar mejor el sitio.
